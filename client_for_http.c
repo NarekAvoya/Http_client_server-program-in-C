@@ -1,10 +1,3 @@
-// client.c
-// Compile: gcc -o client client.c
-// Usage:
-//   ./client <host> <port> GET /file.txt
-//   ./client <host> <port> POST /file.txt bodyfile.txt
-//   ./client <host> <port> ECHO /echo bodyfile.txt
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
